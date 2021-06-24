@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Promotion.Tests.Engine
+namespace Promotion.Modules
 {
     public class Basket
     {

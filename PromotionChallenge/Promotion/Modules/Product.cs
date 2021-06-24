@@ -1,4 +1,4 @@
-﻿namespace Promotion.Tests.Engine
+﻿namespace Promotion.Modules
 {
     public class Product
     {

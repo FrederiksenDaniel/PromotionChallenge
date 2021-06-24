@@ -1,6 +1,7 @@
-﻿using System;
+﻿using Promotion.Modules;
+using System;
 
-namespace Promotion.Tests.Engine
+namespace Promotion.Evaluator
 {
     public class PriceEvaluator
     {

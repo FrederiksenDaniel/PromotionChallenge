@@ -1,3 +1,5 @@
+using Promotion.Evaluator;
+using Promotion.Modules;
 using Xunit;
 
 namespace Promotion.Tests.Engine
